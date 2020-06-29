@@ -3,7 +3,7 @@
 Sample application for showing different repository pattern implementations and usages, written for my blog post.
 
 It includes these subjects:
-What is it
++ What is it
 + Generic Repository
 + Static Repository
 + Plain Repository
